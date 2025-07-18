@@ -8,6 +8,7 @@ for(int i=0; i<ab.length; i++){
     ab[i].display();
     ((Draw)ab[i]).stop();
     System.out.println();
+    System.out.println();
 }
 
     /* 
@@ -18,6 +19,6 @@ for(int i=0; i<ab.length; i++){
 
     ((Draw)ab[1]).start();
     ab[1].display();
-    ((Draw)ab[1]).stop();*/
+    ((Draw)ab[1]).stop();*/ 
 }
 }
